@@ -71,7 +71,7 @@ button:hover {
     text-decoration: underline;
     max-height: 30vh;
     font-style: italic;
-    overflow-y: scroll;
+    overflow-x: hidden;
 }
 
 p {
